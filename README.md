@@ -1,5 +1,4 @@
-﻿#  Solar Panel Condition Classification and Power Generation
-Prediction
+﻿#  Solar Panel Condition Classification and Power Generation Prediction
 
 
  Solar energy will surpass all other renewable
